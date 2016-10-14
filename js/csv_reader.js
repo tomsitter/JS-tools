@@ -184,7 +184,8 @@ var csvReader = (function() {
 	};
 	
 	return {
-		readFiles: readFiles,
+		readFile: readFile,
+		parseToObject: parseToObject
 	};
 	
 })();
