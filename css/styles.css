@@ -1,0 +1,13 @@
+.dropbox {
+    height: 3em;
+    width: 75%;
+    margin: 0 auto;
+    align: center;
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.dropbox:hover {
+    background-color: darkgrey;
+}
